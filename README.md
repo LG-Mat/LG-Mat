@@ -1,7 +1,7 @@
 - 👋 Olá! Eu sou @LG-Mat, mas apenas Luís já está bom
 - 👀 Estou cursando Engenharia de Controle e Automação na UFSM
 - 🌱 No momento estou me aprimorando em C++
-- 💞️ Pretendo compartilhar aquilo que tenho estudado aqui
+- 💞️ Pretendo compartilhar aquilo que estou estudado aqui
 - 📫 Contato: e-mail lgmatiotti@gmail.com
 
 <!---
