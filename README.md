@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LG-Mat, but please call me Louis
-- 👀 I’m an engeneering student in Brazil
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to share what I'm studying here
-- 📫 How to reach me: e-mail lgmatiotti@gmail.com
+- 👋 Olá! Eu sou @LG-Mat, mas apenas Luís já está bom
+- 👀 Estou cursando Engenharia de Controle e Automação na UFSM
+- 🌱 No momento estou me aprimorando em C++
+- 💞️ Pretendo compartilhar aquilo que tenho estudado aqui
+- 📫 Contato: e-mail lgmatiotti@gmail.com
 
 <!---
 LG-Mat/LG-Mat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
